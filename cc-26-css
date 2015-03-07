@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	    <link type="text/css"rel="stylesheet"href="css-26.css"/>
+		<title>Result</title>
+		<img src="http://bit.ly/NnVbxt"/>
+		<a href="http://www.google.com.au">google</a>
+	</head>
+	<body>
+	    
+	<h1>How about bazinga!</h1>
+	    <p>Yes! bazinga will be cool.</p>
+	    
+	</body>
+</html>
+<!--links and text decoration-->
+
+/*css*/
+
+h1{
+    font-family:Verdana,sans-serif;
+    color:#576D94;
+    
+}
+p{
+    font-size:18px;
+    color:#4A4943;
+    font-family:garamond,serif;
+    
+}
+img{
+    height:100px;
+    width:300px;
+    border:1px solid#4682b4;
+}
+a{
+    text-decoration:none;
+    color: #cc0000;
+}
