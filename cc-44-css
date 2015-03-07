@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="css-44.css"/>
+		<title>Result</title>
+	</head>
+	<body>
+		<!--Add your HTML elements with the ID "serious" below!-->
+		<ol>
+			<div class="bazinga">How now brown duck.</div>
+			<div id="serious">Tis the first one.</div>
+			<div id="first">Tis the second one.</div>
+			<div id="second">Tis the fourth one.</div>
+			<div id="third">Tis the fifth one.</div>
+		</ol>
+	</body>
+</html>
+
+/*css*/
+
+.bazinga{
+    font-family:Italic;
+    font-size:50px;
+    color: green;
+}
+#serious{
+    font-family:Courier;
+    color: #CC0000;
+}
+#first{
+    font-family:Verdana;
+    color:blue;
+}
+#second{
+    font-family:Times New Roman;
+}
+#third{
+    font-family:Georgia;
+    color:#FF0000;
+}
