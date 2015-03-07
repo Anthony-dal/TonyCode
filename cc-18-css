@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<link type="text/css" rel="stylesheet" href="css-18.css"/>
+	<div></div>
+		<title>Result</title>
+	</head>
+	<body>
+		<div></div>
+	</body>
+</html>
+
+/*css*/
+
+div{
+	background-color: #cc0000;
+	height:100px;
+	width:100px;
+}
