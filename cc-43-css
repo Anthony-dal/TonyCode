@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="css-43.css"/>
+		<title>Result</title>
+	</head>
+	<body>
+		<ol>
+			<li class ="fancy">Try this one first.</li>
+			<li class ="fancy">Try this one for seconds.</li>
+			<li class ="fancy">try this one for thirds.</li>
+		</ol>
+		<!--you can add as many elements to class "fancy" as you want-->
+		
+	</body>
+</html>
+
+/*css*/
+
+.fancy{
+	font-family: cursive;
+	color: #0000cd;
+}
