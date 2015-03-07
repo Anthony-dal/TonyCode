@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="css-47.css"/>
+		<title></title>
+	</head>
+	<body>
+		<div>
+			<a href="http://www.google.com.au">google</a>
+		    <a href="http://www.anthonydalrymple.com">Anthony</a>
+		    <a href="http://www.uws.edu.au/staff_profiles/uws_profiles/ms_narelle_oliver">Narelle</a>
+		</div>
+	</body>
+</html>
+
+/*css*/
+
+a:link{
+	font-size: 50px;
+	text-decoration: none;
+    color: #008B45;
+    }
+}
+a:hover{
+    color: #00FF00;
+}
+a:visited{
+    color: #EE9A00;
+}
