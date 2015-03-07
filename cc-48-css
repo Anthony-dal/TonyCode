@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="css-48.css"/>
+		<title></title>
+	</head>
+	<body>
+		<div>
+			<p>I'm the first child!</p>
+			<p>We're not.</p>
+			<p>We're not.</p>
+			<p>We're not.</p>
+			<p>We're not.</p>
+			<p>We're not.</p>
+			<p>We're not.</p>			
+		</div>
+	</body>
+</html>
+
+/*css*/
+
+p:first-child{
+	font-family: Cursive;
+	font-size: 30px;
+}
