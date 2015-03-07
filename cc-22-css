@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	    <link type="text/css"rel="stylesheet"href="css-22.css"/>
+		<title>Result</title>
+	</head>
+	<body>
+		<h1>The coolest is bazinga!</h1>
+			<p>Yes bazinga is the very best.</p>
+	</body>
+</html>
+
+/*css*/
+
+h1{
+	font-family:Verdana;
+	color:#576D94;
+}
+
+p{
+	font-size:18px;
+	color:#4A4943;
+}
