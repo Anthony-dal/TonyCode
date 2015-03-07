@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="css-10.css"/>
+		<title>Result</title>
+	</head>
+	<body>
+		<p>I'm currently red, but I'm about to become black!</p>
+	</body>
+</html>
+/*css*/
+p {
+	color:black;
+	font-family:italic;
+	font-size:30px;
+}
+
+/* the same code commented out 
+
+p {
+	color:red;
+}
+*/
