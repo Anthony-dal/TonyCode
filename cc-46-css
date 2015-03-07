@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="css-46.css"/>
+		<title>Result</title>
+	</head>
+	<body>
+		<ul>
+			<h1>BAZINGA CODER</h1>
+		</ul>
+	<ol>
+		<li><a href="http://www.codecademy.com/">Codecademy Home: Bazinga</a></li>
+		<li><a href="http://www.codecademy.com/learn">Learn: Bazinga</a></li>
+		<li><a href="http://www.codecademy.com/create/creator">Teach: bazinga</a></li>
+		<li><a href="http://www.codecademy.com/edit_account/basic_info">Settings: bazinga</a></li>
+	</ol>
+	</body>
+</html>
+
+/*css*/
+
+h1{
+	text-align: center;
+	color: #00FF00;
+	text-decoration: underline;
+}
+a:hover {
+	color: #cc0000;
+	font-weight: bold;
+	text-decoration: none;
+}
