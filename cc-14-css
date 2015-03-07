@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Result</title>
+	</head>
+	<body>
+		<p style="font-size: 1em">One em!</p>
+		<p style="font-size: 0.5em">Half an em!</p>
+		<p style="font-size: 2em">TWO EM!</p>
+	</body>
+</html>
+
+<!--
+Check it out: I've set three different paragraphs to the font-sizes 1em, 0.5em, and 2em. 
+or now, use whichever unit (px or em) you're more comfortable with just wanted to show
+you em now so you're not surprised when you see it later.
+-->
