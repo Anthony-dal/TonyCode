@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	    <link type="text/css"rel="stylesheet"href="css-24.css"/>
+		<title>Result</title>
+	</head>
+	<body>
+		<img src="http://i775.photobucket.com/albums/yy32/nihaohej/tumblr_kvx4astfid1qzc176o1_400.jpg"/>
+	<h1>How about bazinga!</h1>
+	    <p>Yes! bazinga will be cool.</p>
+	</body>
+</html>
+
+<!--set screen to default size(full screen)or it will not execute-->
+
+/*css*/
+
+h1{
+    font-family:Verdana,sans-serif;
+    color:#576D94;
+    
+}
+p{
+    font-size:18px;
+    color:#4A4943;
+    font-family:garamond,serif; 
+}
+img{
+	height:300px;
+	width:200px;
+	border:5px solid black;
+}
+/*set the default full screen size to make sure this code executes*/
