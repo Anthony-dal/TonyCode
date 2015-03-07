@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="css-17.css"/>
+		<title>Free Play!</title>
+	</head>
+	<body>
+		<!--Go bananas!-->
+		<p1>Lets try the first one first</p1>
+		<h2>Lets try the second one second</h2>
+		<h3>Lets try the third one third</h3>
+	</body>
+</html>
+
+/*css*/
+
+p1{
+	color:green;
+	font-family:italic;
+	font-size:60px;
+}
+h1{
+	color:blue;
+	font-family:courier;
+	font-size:70px;
+}
+h2{
+	color:red;
+	font-family:verdana;
+	font-size-size:80px;
+}
