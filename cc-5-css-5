@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<link style ="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title>Result</title>
+	</head>
+	<body>
+		<p>I want to be SIZE 44 font!</p>
+	</body>
+</html>
+
+/*css*/
+p {
+	color:green;
+}
